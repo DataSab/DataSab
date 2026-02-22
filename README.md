@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  ✨ Curious mind · 🌱 Lifelong learner · 💻 Tech enthusiast 
+  ✨ Curious mind · 🌱 Lifelong learner · 💻 Cyber Security enthusiast 
 </p>
 
 <br/>
