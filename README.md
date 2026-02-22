@@ -43,7 +43,7 @@
 ## 🛠️ Tech Playground
 
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,js,react,html,css,nodejs,flask,mysql,git,github,vscode,npm,postman,dart,flutter,firebase&size=24&perline=20" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,js,react,html,css,nodejs,flask,git,github,vscode,npm,postman,dart,flutter,firebase&size=24&perline=20" />
 </p>
 
 
