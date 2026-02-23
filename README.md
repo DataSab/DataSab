@@ -18,7 +18,7 @@
 
 <h2 align="center">🛡️ Cybersecurity & Systems</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,kali,bash,powershell,wireshark,pfsense,docker,aws,azure&perline=10" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,windows,bash,powershell,wireshark,docker,aws,azure,network&perline=10" />
 </p>
 
 <h2 align="center">🛠️ Development & Database</h2>
