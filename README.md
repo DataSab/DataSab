@@ -14,6 +14,13 @@
   ✨ Curious mind · 🌱 Lifelong learner · 💻 Cyber Security enthusiast 
 </p>
 
+
+<p align="center">
+  🌐 WEBSITE -  Discover my personal website documenting my career transition into IT →
+  <a href="https://www.briadev.com/" target="_blank"><b>briadev.com</b></a>
+</p>
+
+
 <br/>
 
 <h2 align="center">🛡️ Cybersecurity & Systems</h2>
@@ -28,10 +35,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://w7.pngwing.com/pngs/351/365/png-transparent-web-development-web-application-web-design-frontend-developer-logo-web-application-development-user-interface-design-react.png" alt="Icon" height="20">
-  <b>Web application javascript & REACT</b>
-</p>
+
 
 <h2 align="center">🌐 Network</h2>
 <p align="center">
