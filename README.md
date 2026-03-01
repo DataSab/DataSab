@@ -28,7 +28,14 @@
 
 <br/>
 
-<h2 align="center">🌐 Threat Intelligence Network</h2>
+<h2 align="center">🌐 Web application javascript & REACT</h2>
+<p align="center">
+  <a href="https://www.briadev.com/">
+    <img src="https://img.shields.io/badge/Guide_Reconversion_IT-briadev.com-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
+
+<h2 align="center">🌐 Network</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/sabrina-pap"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://discord.gg/VQEYcMPVWP"><img src="https://img.shields.io/badge/Bria__Dev_Street-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
