@@ -28,11 +28,9 @@
 
 <br/>
 
-<h2 align="center">🌐 Web application javascript & REACT</h2>
 <p align="center">
-  <a href="https://www.briadev.com/">
-    <img src="https://img.shields.io/badge/Guide_Reconversion_IT-briadev.com-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" />
-  </a>
+  <img src="https://w7.pngwing.com/pngs/351/365/png-transparent-web-development-web-application-web-design-frontend-developer-logo-web-application-development-user-interface-design-react.png" alt="Icon" height="20">
+  <b>Web application javascript & REACT</b>
 </p>
 
 <h2 align="center">🌐 Network</h2>
