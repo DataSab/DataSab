@@ -11,7 +11,7 @@
 <p align="center">
   🛡️ <b>Focus:</b> Operational Security • Infrastructure Hardening • Scripting
   <br/>
-  ✨ Curious mind · 🌱 Lifelong learner · 💻 Cyber Security enthusiast 
+  ✨ Curious mind · 🌱 Lifelong learner · 💻 Cyber Security & IA enthusiast 
 </p>
 
 
