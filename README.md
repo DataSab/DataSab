@@ -35,7 +35,7 @@
 
 <p align="center">
   <img 
-    src="./cyber-security-soc-dashboard.gif"
+    src="./cyber-security-soc-dashboard-optimized.gif"
     alt="Cybersecurity Network Monitoring"
     width="900"
   />
