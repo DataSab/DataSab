@@ -32,6 +32,16 @@
   <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hack-the-box&logoColor=9FEF00" alt="Hack The Box" />
 </p>
 
+
+<p align="center">
+  <img 
+    src="./cyber-security-soc-dashboard.gif"
+    alt="Cybersecurity Network Monitoring"
+    width="900"
+  />
+</p>
+
+
 <h2 align="center">⚙️ Systems, Cloud & Infra</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,bash,powershell,docker,aws,azure&perline=10" alt="Infra & Cloud Skills" />
