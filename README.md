@@ -15,20 +15,12 @@
 </p>
 
 <p align="center">
-  🌐 VOIR MON SITE - transition pro IT →
+  🌐 Mon Site - Transition Professionnelle vers l'IT →
   <a href="https://www.briadev.com/" target="_blank"><b>briadev.com</b></a>
 </p>
 
 <br/>
 
-<h2 align="center">🎯 Cybersecurity Rankings & Practice</h2>
-<p align="center">
-  <a href="https://tryhackme.com/p/Bria971" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Bria971.png" alt="TryHackMe Badge" />
-  </a>
-</p>
-
-<br/>
 
 <h2 align="center">🛡️ Cybersecurity & Defensive Tools</h2>
 <p align="center">
